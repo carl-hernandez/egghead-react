@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dee1e093-c20d-4287-a221-573b1f1b04c7" name="egghead-react" url="http://bootcamp-coders.cnm.edu/~chernandez151/egghead-react">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/chernandez151/public_html/egghead-react" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
